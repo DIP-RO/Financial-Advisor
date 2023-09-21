@@ -1,0 +1,18 @@
+[ 
+
+  {
+      "id": 1,
+      "name": "Dipro Paul",
+      "position": "CEO",
+      "email": "dipropaul032@gmail.com",
+      "image": "https://media.licdn.com/dms/image/D5603AQFLPx1l5wiKDQ/profile-displayphoto-shrink_800_800/0/1675196543363?e=2147483647&v=beta&t=uNAYZec1_4waHRawc2aPFhFrVvDKuH1KoB24_nXPzJ8"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "COO",
+      "email": "jane@example.com",
+      "image": "https://ibb.co/sg51zq1"
+    }
+
+]

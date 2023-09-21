@@ -1,0 +1,49 @@
+[ 
+
+  {
+      "id": 1,
+      "name": "A",
+      "position": "CEO",
+      "email": "dipropaul032@gmail.com",
+      "years_of_experience": 15,
+      "education": "Bachelor of Finance from XYZ University",
+      "firm_name": "ABC Financial Services",
+      "firm_website": "https://www.abcfinancialservices.com",
+      "image": "https://media.licdn.com/dms/image/D5603AQFLPx1l5wiKDQ/profile-displayphoto-shrink_800_800/0/1675196543363?e=2147483647&v=beta&t=uNAYZec1_4waHRawc2aPFhFrVvDKuH1KoB24_nXPzJ8"
+    },
+  {
+      "id": 1,
+      "name": "A",
+      "position": "CEO",
+      "email": "dipropaul032@gmail.com",
+      "years_of_experience": 15,
+      "education": "Bachelor of Finance from XYZ University",
+      "firm_name": "ABC Financial Services",
+      "firm_website": "https://www.abcfinancialservices.com",
+      "image": "https://media.licdn.com/dms/image/D5603AQFLPx1l5wiKDQ/profile-displayphoto-shrink_800_800/0/1675196543363?e=2147483647&v=beta&t=uNAYZec1_4waHRawc2aPFhFrVvDKuH1KoB24_nXPzJ8"
+    },
+  {
+      "id": 1,
+      "name": "A",
+      "position": "CEO",
+      "email": "dipropaul032@gmail.com",
+      "years_of_experience": 15,
+      "education": "Bachelor of Finance from XYZ University",
+      "firm_name": "ABC Financial Services",
+      "firm_website": "https://www.abcfinancialservices.com",
+      "image": "https://media.licdn.com/dms/image/D5603AQFLPx1l5wiKDQ/profile-displayphoto-shrink_800_800/0/1675196543363?e=2147483647&v=beta&t=uNAYZec1_4waHRawc2aPFhFrVvDKuH1KoB24_nXPzJ8"
+    },
+    
+    
+    {
+        "id": 1,
+        "name": "A",
+        "position": "CEO",
+        "email": "dipropaul032@gmail.com",
+        "years_of_experience": 15,
+        "education": "Bachelor of Finance from XYZ University",
+        "firm_name": "ABC Financial Services",
+        "firm_website": "https://www.abcfinancialservices.com",
+        "image": "https://media.licdn.com/dms/image/D5603AQFLPx1l5wiKDQ/profile-displayphoto-shrink_800_800/0/1675196543363?e=2147483647&v=beta&t=uNAYZec1_4waHRawc2aPFhFrVvDKuH1KoB24_nXPzJ8"
+      }
+]
